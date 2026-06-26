@@ -1,0 +1,6 @@
+{
+  "name": "The Food Paradox Platform",
+  "description": "A logistics and monitoring hub connecting food donors with verified NGOs to rescue surplus food and track carbon offsets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
